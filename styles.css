@@ -94,8 +94,9 @@ body{
 
   
 
-  @media only screen and (max-width: 370px) {
-    .container{
-      overflow-y: hidden;
+  @media only screen and (max-width: 375px) {
+    
+    .container {
+      overflow: hidden;
     }
   }
